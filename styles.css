@@ -30,6 +30,8 @@ h1{
     color: rgb(115, 57, 11);
 }
 .list1{
+    opacity: 80%;
+    margin: 10px 10px 0px 5px;
     border-radius: 10px;
     height: 40px;
     width: 40px;
