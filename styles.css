@@ -1,7 +1,18 @@
+.fixed{
+    position : fixed;
+    background-color: aliceblue;
+    border: 2px solid rgb(82, 84, 191);
+    border-radius: 30px;
+    padding: 5px;
+    top: 7px;
+    left: 20px;
+    width : 93%;
+    /* margin-left: 5px;
+    margin-bottom: 5px; */
+}
 h1{
     color: rgb(12, 95, 29);
-    margin-left: 5px;
-    margin-bottom: 5px;
+    margin: 3px 0px 0px 10px;
 }
 .main_headers{
     text-align: center;
@@ -29,7 +40,7 @@ h1{
 }
 .myphoto{
     position: absolute;
-    top: -18px;
+    top: -10px;
     left: 400px;
 }
 .about_me{
@@ -50,4 +61,7 @@ h1{
     border-radius: 10px;
     height: 40px;
     width: 40px;
+}
+.movable{
+    margin: 110px 0px 0px 10px;
 }
