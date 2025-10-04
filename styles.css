@@ -1,0 +1,35 @@
+h1{
+    color: rgb(12, 95, 29);
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+#footer{
+    text-align: center;
+}
+.main_page{
+    margin : 10px;
+}
+.main_details{
+    margin-left : 10px;
+}
+.myphoto{
+    margin-top: -150px;
+    margin-left: 400px;
+}
+.about_me{
+    color: rgb(68, 81, 230);
+    margin : 0px 0px -10px 10px;
+}
+.list{
+    color: rgb(19, 92, 107);
+    margin: 5px 0px 5px -3px;
+}
+.main_body{
+    margin : 20px 0px 10px 0px;
+    color: rgb(115, 57, 11);
+}
+.list1{
+    border-radius: 10px;
+    height: 40px;
+    width: 40px;
+}
