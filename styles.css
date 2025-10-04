@@ -3,12 +3,24 @@ h1{
     margin-left: 5px;
     margin-bottom: 5px;
 }
+.main_headers{
+    text-align: center;
+}
+.headers{
+    color: rgb(25, 25, 173);
+    margin: 10px 50px 0px 0px;
+    background-color: azure;
+    padding : 3px;
+    border: 2px solid red;
+    border-radius: 5px;
+    text-decoration: none;
+}
 #footer{
     text-align: center;
 }
 .main_page{
     margin : 10px;
-    background-color: rgb(243, 228, 208);
+    background-color: rgb(202, 231, 232);
 }
 .main_details{
     margin-left : 10px;
