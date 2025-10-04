@@ -8,12 +8,13 @@ h1{
 }
 .main_page{
     margin : 10px;
+    background-color: rgb(243, 228, 208);
 }
 .main_details{
     margin-left : 10px;
 }
 .myphoto{
-    margin-top: -150px;
+    margin-top: -140px;
     margin-left: 400px;
 }
 .about_me{
