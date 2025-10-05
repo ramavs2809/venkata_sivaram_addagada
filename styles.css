@@ -5,8 +5,8 @@
     border: 2px solid rgb(82, 84, 191);
     border-radius: 30px;
     padding: 5px;
-    top: 7px;
-    left: 20px;
+    top: 1%;
+    left: 3%;
     width : 93%;
     /* margin-left: 5px;
     margin-bottom: 5px; */
@@ -41,8 +41,8 @@ h1{
 }
 .myphoto{
     position: absolute;
-    top: -10px;
-    left: 50%;
+    top: -5px;
+    left: 45%;
 }
 .about_me{
     color: rgb(68, 81, 230);
@@ -64,5 +64,5 @@ h1{
     width: 40px;
 }
 .movable{
-    margin: 110px 0px 0px 10px;
+    margin-top: 15%;
 }
