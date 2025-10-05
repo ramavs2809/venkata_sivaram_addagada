@@ -2,19 +2,19 @@
     position : fixed;
     z-index: 10;
     background-color: rgb(207, 240, 186);
-    border: 2px solid rgb(82, 84, 191);
-    border-radius: 30px;
-    padding: 1%;
-    top: 1%;
-    left: 1%;
-    right: 1%;
-    width : 96%;
+    border: 0.1em solid rgb(82, 84, 191);
+    border-radius: 3cap;
+    padding: 0.5em;
+    top: 1vh;
+    left: 1vw;
+    right: 1vw;
+    width : 93vw;
     /* margin-left: 5px;
     margin-bottom: 5px; */
 }
 h1{
     color: rgb(12, 95, 29);
-    margin: 3px 0px 0px 10px;
+    margin: 0.5% 0% 0% 1.5%;
 }
 .main_headers{
     text-align: center;
