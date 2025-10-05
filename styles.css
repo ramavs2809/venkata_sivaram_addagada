@@ -1,12 +1,13 @@
 .fixed{
     position : fixed;
     z-index: 10;
-    background-color: aliceblue;
+    background-color: rgb(207, 240, 186);
     border: 2px solid rgb(82, 84, 191);
     border-radius: 30px;
     padding: 1%;
     top: 1%;
     left: 1%;
+    right: 1%;
     width : 96%;
     /* margin-left: 5px;
     margin-bottom: 5px; */
