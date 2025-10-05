@@ -4,10 +4,10 @@
     background-color: aliceblue;
     border: 2px solid rgb(82, 84, 191);
     border-radius: 30px;
-    padding: 5px;
+    padding: 1%;
     top: 1%;
-    left: 3%;
-    width : 93%;
+    left: 1%;
+    width : 96%;
     /* margin-left: 5px;
     margin-bottom: 5px; */
 }
@@ -31,7 +31,7 @@ h1{
     text-align: center;
 }
 .main_page{
-    margin : 10px;
+    margin : 1%;
     background-color: rgb(202, 231, 232);
 }
 .main_details{
