@@ -42,7 +42,7 @@ h1{
 .myphoto{
     position: absolute;
     top: -10px;
-    left: 400px;
+    left: 50%;
 }
 .about_me{
     color: rgb(68, 81, 230);
