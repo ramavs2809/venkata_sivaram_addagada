@@ -14,56 +14,56 @@
 }
 h1{
     color: rgb(12, 95, 29);
-    margin: 0.5% 0% 0% 1.5%;
+    margin: 0.1em 0em -0.1em 0.3em;
 }
 .main_headers{
     text-align: center;
 }
 .headers{
     color: rgb(25, 25, 173);
-    margin: 10px 50px 0px 0px;
+    margin: 0.1em 3em 0em 0em;
     background-color: azure;
-    padding : 3px;
-    border: 2px solid red;
-    border-radius: 5px;
+    padding : 0.2em;
+    border: 0.1em solid red;
+    border-radius: 1cap;
     text-decoration: none;
 }
 #footer{
     text-align: center;
 }
 .main_page{
-    margin : 1%;
+    margin : 1vw;
     background-color: rgb(202, 231, 232);
 }
 .main_details{
     position: relative;
-    margin-left : 10px;
-    margin-bottom: 50px;
+    margin-left : 2vw;
+    margin-bottom: 3em;
 }
 .myphoto{
     position: absolute;
-    top: -5px;
+    top: -0.1em;
     left: 45%;
 }
 .about_me{
     color: rgb(68, 81, 230);
-    margin : 0px 0px -10px 10px;
+    margin : -0.10em 0em -0.5em 0.3em;
 }
 .list{
     color: rgb(19, 92, 107);
-    margin: 5px 0px 5px -3px;
+    margin: 0.1em 0em 0.1em -0.6em;
 }
 .main_body{
-    margin : 20px 0px 10px 0px;
+    margin : 1.2em 0em 0.1em 0.1em;
     color: rgb(115, 57, 11);
 }
 .list1{
-    opacity: 80%;
-    margin: 10px 10px 0px 5px;
-    border-radius: 10px;
-    height: 40px;
-    width: 40px;
+    opacity: 75%;
+    margin: 0.5em 0.4em -0.4em 0.6em;
+    border-radius: 1cap;
+    height: 6vw;
+    width: 6vw;
 }
 .movable{
-    margin-top: 15%;
+    margin-top: 17vh;
 }
